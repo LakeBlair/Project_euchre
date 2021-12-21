@@ -1,4 +1,4 @@
-# Project/Coding sample  
+# Coding sample  
 Name: Jiawei Hao  
 Project: Euchre  
 Project Partner: Casper Guo  
